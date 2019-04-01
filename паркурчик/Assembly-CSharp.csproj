@@ -100,6 +100,7 @@
      <Compile Include="Assets\скрипты\HelloWorld.cs" />
      <Compile Include="Assets\скрипты\JumpPlayer.cs" />
      <Compile Include="Assets\скрипты\MouseLook.cs" />
+     <Compile Include="Assets\скрипты\NewLevel.cs" />
      <Compile Include="Assets\скрипты\PlayerCharacter.cs" />
      <Compile Include="Assets\скрипты\ReactiveTarget.cs" />
      <Compile Include="Assets\скрипты\SceneController.cs" />
