@@ -5,9 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class NewLevel : MonoBehaviour
 {
-	private void OnTriggerEnter3D(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
-        if (other.tag == "Player")
+        if (other.tag == "FPSController")
         {
 
             SceneManager.LoadScene("Map_2");
